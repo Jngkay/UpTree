@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419126280009",
+    "project_id": "nutricheck-355ac",
+    "storage_bucket": "nutricheck-355ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419126280009:android:ccd1c697404048d7fa6498",
+        "android_client_info": {
+          "package_name": "com.nutri.check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvsKwu6rMEzJqWONs3zLsScbNIcC2GmjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
